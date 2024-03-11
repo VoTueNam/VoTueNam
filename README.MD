@@ -13,3 +13,12 @@ Here are some ideas to get I started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: x10
 
+<div>
+  <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" alt="JS" width="50"></img>
+  <img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" alt="python" width="50"></img>
+  <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" alt="VScode" width="50"></img>
+  <img src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" alt="React" width="50"></img>
+  <img src="https://media3.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.webp" alt="NodeJS" width="50"></img>
+  <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" alt="git" width="100"></img>
+  <img src="https://cdn.svgporn.com/logos/aws.svg" alt="aws" width="50"></img>
+</div>
